@@ -89,10 +89,10 @@ const generateEmail = (name, domain) => {
     return `${name}@${domain}`; 
   }
   
-  console.log('Exercise 4 Result:', generateEmail("johnsmith", "example.com"));  // Should log: johnsmith@example.com
+  console.log('Exercise 4 Result:', generateEmail("Mike", "example.com"));  // Should log: johnsmith@example.com
   
 
-console.log('Exercise 4 Result:', generateEmail("johnsmith", "example.com"));
+console.log('Exercise 4 Result:', generateEmail("SeibertMike", "example.com"));
 
 
 /*
